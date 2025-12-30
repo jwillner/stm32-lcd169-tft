@@ -1,5 +1,7 @@
 # stm32-lcd169-tft
+## Display
 
+![Waveshare 1.69 ST7789 am STM32 Blue Pill](images/display.jpg)
 Ansteuerung des **Waveshare 1.69\" LCD Moduls (ST7789V2, 240×280)** mit einem  
 **STM32F103C8 \"Blue Pill\"** über **PlatformIO (Arduino-Framework)**.
 
