@@ -1,0 +1,26 @@
+# PlatformIO
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# VS Code
+.vscode/
+.history/
+
+# Build artifacts
+*.o
+*.elf
+*.map
+*.bin
+*.hex
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*~
+*.tmp
